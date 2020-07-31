@@ -1,4 +1,3 @@
-# Android-start-from-give-up
  Android 从放弃到新生
 ## 一、补基础
 1.资源  
