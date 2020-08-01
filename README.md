@@ -8,7 +8,7 @@
 ### &ensp;1.  Kotlin基础
 + [x] [Kotlin的变量、函数和类型](https://kaixue.io/kotlin-basic-1/)
 
-+ [] [Kotlin与Java写法的不同之处]（https://kaixue.io/kotlin-basic-2/）
++ [] [Kotlin与Java写法的不同之处](https://kaixue.io/kotlin-basic-2/)
 
 
 ## PS：
