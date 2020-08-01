@@ -1,6 +1,6 @@
  <h1 align="center">Android Restart</h1>
 
-<h2 align="center"> 重启计划表</h2>
+<h2 align="right"> 重启计划表</h2>
 
 # 一、补基础
 ##  资源  
