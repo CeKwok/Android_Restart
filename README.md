@@ -1,4 +1,5 @@
- Android 从放弃到新生
+ <h1 align="center">Android 从放弃到新生</h1>
+ 
 # 一、补基础
 ##  资源  
 ##  [约束布局](https://www.jianshu.com/p/17ec9bd6ca8a)   
