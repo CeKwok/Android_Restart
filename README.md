@@ -6,9 +6,9 @@
 
 ## 二、[扔物线的 Kotlin 教程](https://kaixue.io/tag/kotlin-basic/)
 ### &ensp;1.  Kotlin基础
-+[x] [Kotlin的变量、函数和类型](https://kaixue.io/kotlin-basic-1/)
+- [x] [Kotlin的变量、函数和类型](https://kaixue.io/kotlin-basic-1/)
 
-+[] [Kotlin与Java写法的不同之处](https://kaixue.io/kotlin-basic-2/)
+- [ ] [Kotlin与Java写法的不同之处](https://kaixue.io/kotlin-basic-2/)
 
 
 ## PS：
