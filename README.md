@@ -1,5 +1,7 @@
- <h1 align="center">Android 从放弃到新生</h1>
- 
+ <h1 align="center">Android Restart</h1>
+
+<h2 align="center"> 重启计划表</h2>
+
 # 一、补基础
 ##  资源  
 ##  [约束布局](https://www.jianshu.com/p/17ec9bd6ca8a)   
