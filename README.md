@@ -12,9 +12,11 @@
 
 ### [扔物线的 Kotlin 教程](https://kaixue.io/tag/kotlin-basic/)  
 -  [x] 基础1-[Kotlin的变量、函数和类型](https://kaixue.io/kotlin-basic-1/)
+-  [x] 基础2-[Kotlin与Java写法的不同之处](https://kaixue.io/kotlin-basic-2/)
+-  [x] 基础3-[Kotlin 的 Lambda 表达式](https://kaixue.io/kotlin-lambda/)
+-  [ ] 基础4-[Kotlin 的泛型](https://kaixue.io/kotlin-generics/)
+-  [ ] 基础5-Kotlin 协程
 
-
--  [ ] 基础2- [Kotlin与Java写法的不同之处](https://kaixue.io/kotlin-basic-2/)
 
 
 ## PS：
