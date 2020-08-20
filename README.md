@@ -17,7 +17,8 @@
 -  [ ] 基础4-[Kotlin 的泛型](https://kaixue.io/kotlin-generics/)
 -  [ ] 基础5-Kotlin 协程
 
-
+# 二、刷算法
+### [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)
 
 ## PS：
  1. MarkDown 语法学习
