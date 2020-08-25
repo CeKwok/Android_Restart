@@ -1,6 +1,6 @@
- <h1 align="center">Android Restart</h1>
+ <h1 align="center">Android 复习列表</h1>
 
-<p align="right"> 重启计划表</p>
+<p align="right"> </p>
 
 # 一、补基础  
 ## Java基础  
