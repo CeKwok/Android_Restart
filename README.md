@@ -16,8 +16,8 @@
 -  [x] 基础3-[Kotlin 的 Lambda 表达式](https://kaixue.io/kotlin-lambda/)
 -  [ ] 基础4-[Kotlin 的泛型](https://kaixue.io/kotlin-generics/)
 -  [ ] 基础5-Kotlin 协程 
-### Kotlin相关文章
--  [x][聊聊协程的发展历程](https://juejin.im/post/6844904040170520590)
+### 2、Kotlin相关文章
+-  [x] [聊聊协程的发展历程](https://juejin.im/post/6844904040170520590)
 
 # 二、刷算法
 ### [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)
